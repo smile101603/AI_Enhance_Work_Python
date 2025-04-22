@@ -24,7 +24,6 @@ If you discover a security issue related to a tool linked in this repository, pl
 **Security Contact**
 
 * [LSeu-Open](https://github.com/smile101603)
-* github.gnq01@simplelogin.com
 
 **Revision History**
 
