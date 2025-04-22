@@ -1,4 +1,4 @@
-**Security Policy for [AIEnhancedWork](https://github.com/LSeu-Open/AIEnhancedWork)**
+**Security Policy for [AIEnhancedWork](https://github.com/smile101603/AIEnhancedWork)**
 
 **Reporting Security Issues**
 
@@ -23,7 +23,7 @@ If you discover a security issue related to a tool linked in this repository, pl
 
 **Security Contact**
 
-* [LSeu-Open](https://github.com/LSeu-Open)
+* [LSeu-Open](https://github.com/smile101603)
 * github.gnq01@simplelogin.com
 
 **Revision History**
