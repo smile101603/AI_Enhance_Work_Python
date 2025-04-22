@@ -1,4 +1,4 @@
-**Security Policy for [AIEnhancedWork](https://github.com/smile101603/AIEnhancedWork)**
+**Security Policy for [AIEnhancedWork](https://github.com/smile101603/AI_Enhance_Work_Python)**
 
 **Security Process**
 
