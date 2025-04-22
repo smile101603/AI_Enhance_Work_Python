@@ -1,6 +1,3 @@
-<div align="center"> 
-
-<img src="https://github.com/smile101603/AI_Enhance_Work_Python/main/Images/AIEnhancedWork.png">
 
 <br>
 <br>
