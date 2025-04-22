@@ -1,9 +1,5 @@
 **Security Policy for [AIEnhancedWork](https://github.com/smile101603/AIEnhancedWork)**
 
-**Reporting Security Issues**
-
-If you discover a security issue related to a tool linked in this repository, please report it to github.gnq01@simplelogin.com. We will respond promptly to address the issue.
-
 **Security Process**
 
 * We will acknowledge receipt of the report within 48 hours.
